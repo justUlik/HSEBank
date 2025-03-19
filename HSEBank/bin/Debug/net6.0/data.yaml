@@ -1,0 +1,31 @@
+Accounts:
+  - Id: 7210ada7-4c6c-4b0c-a143-0dfb24a04502
+    Name: abobus
+    Balance: 250
+    InitialBalance: 120
+  - Id: 22954534-5e7f-44eb-8599-bbf881c094bb
+    Name: checkNeg
+    Balance: -40000
+    InitialBalance: 10000
+Categories:
+  - Id: 5bf4d0f5-f7c4-4849-8497-046443496ac8
+    Type: Income
+    Name: check
+  - Id: 271d1ae6-7665-4a90-9224-380b438d6a09
+    Type: Expense
+    Name: negative
+Operations:
+  - Id: 715a9837-9de4-45cd-b8f3-1557ae330060
+    Type: Income
+    BankAccountId: 7210ada7-4c6c-4b0c-a143-0dfb24a04502
+    Amount: 130
+    Date: 20.03.2025 00:03:01
+    Description: salary
+    CategoryId: 5bf4d0f5-f7c4-4849-8497-046443496ac8
+  - Id: 467d7166-27e6-4e55-9b39-c56b61c927ac
+    Type: Expense
+    BankAccountId: 22954534-5e7f-44eb-8599-bbf881c094bb
+    Amount: 50000
+    Date: 20.03.2025 00:03:53
+    Description: sdksl
+    CategoryId: 271d1ae6-7665-4a90-9224-380b438d6a09

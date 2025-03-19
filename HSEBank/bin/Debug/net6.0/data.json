@@ -1,0 +1,42 @@
+{
+  "Accounts": [
+    {
+      "Id": "2e98901d-fa05-4b2d-8463-6885771b0435",
+      "Name": "Ab",
+      "Balance": 99201,
+      "InitialBalance": 100000
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "94416b25-3f0a-4b2b-ad67-0df539566a86",
+      "Type": 1,
+      "Name": "Exp"
+    },
+    {
+      "Id": "41fdbfb0-f0a2-4547-a6c5-32890d2d7638",
+      "Type": 0,
+      "Name": "Inc"
+    }
+  ],
+  "Operations": [
+    {
+      "Id": "bd8aa14a-ed07-48a1-aaf6-f6336b0d1d71",
+      "Type": 1,
+      "BankAccountId": "2e98901d-fa05-4b2d-8463-6885771b0435",
+      "Amount": 1999,
+      "Date": "2025-03-19T23:48:29.08846+03:00",
+      "Description": "129",
+      "CategoryId": "94416b25-3f0a-4b2b-ad67-0df539566a86"
+    },
+    {
+      "Id": "f04c49e5-b5cf-47d3-bf64-70884199c27a",
+      "Type": 0,
+      "BankAccountId": "2e98901d-fa05-4b2d-8463-6885771b0435",
+      "Amount": 1200,
+      "Date": "2025-03-19T23:49:16.807156+03:00",
+      "Description": "\u0447\u0435\u043D\u0430\u0437\u0435\u0441",
+      "CategoryId": "41fdbfb0-f0a2-4547-a6c5-32890d2d7638"
+    }
+  ]
+}

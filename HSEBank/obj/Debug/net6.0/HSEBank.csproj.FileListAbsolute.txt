@@ -1,0 +1,17 @@
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/bin/Debug/net6.0/HSEBank
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/bin/Debug/net6.0/HSEBank.deps.json
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/bin/Debug/net6.0/HSEBank.runtimeconfig.json
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/bin/Debug/net6.0/HSEBank.dll
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/bin/Debug/net6.0/HSEBank.pdb
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/obj/Debug/net6.0/HSEBank.csproj.AssemblyReference.cache
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/obj/Debug/net6.0/HSEBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/obj/Debug/net6.0/HSEBank.AssemblyInfoInputs.cache
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/obj/Debug/net6.0/HSEBank.AssemblyInfo.cs
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/obj/Debug/net6.0/HSEBank.csproj.CoreCompileInputs.cache
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/obj/Debug/net6.0/HSEBank.dll
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/obj/Debug/net6.0/refint/HSEBank.dll
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/obj/Debug/net6.0/HSEBank.pdb
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/obj/Debug/net6.0/HSEBank.genruntimeconfig.cache
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/obj/Debug/net6.0/ref/HSEBank.dll
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/bin/Debug/net6.0/YamlDotNet.dll
+/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/obj/Debug/net6.0/HSEBank.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fEO8LNzMPP/sk6Z2OWvxfGxf8kECuf33wDfopqHNQUrhgcH1SufK9lnLd5nI86Xrnlz2BhOf19xDh3t4zewgdA==",
+  "success": true,
+  "projectFilePath": "/Users/ulyanaeskova/RiderProjects/HSEBank/HSEBank/HSEBank.csproj",
+  "expectedPackageFiles": [
+    "/Users/ulyanaeskova/.nuget/packages/yamldotnet/16.3.0/yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
